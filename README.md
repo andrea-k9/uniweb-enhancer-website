@@ -1,2 +1,1 @@
-# uniweb-enhancer-website
-The website for uniweb-enhancer repository.
+Source of the website for uniweb-enhancer repository.
